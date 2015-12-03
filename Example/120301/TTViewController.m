@@ -7,7 +7,6 @@
 //
 
 #import "TTViewController.h"
-#import ""
 
 @interface TTViewController ()
 
@@ -19,6 +18,8 @@
 {
     [super viewDidLoad];
     
+    NSString * dic = [[NSBundle mainBundle]pathForResource:@"QuickManifest" ofType:@"plist"];
+    NSLog(@"dic = %@",dic);
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
