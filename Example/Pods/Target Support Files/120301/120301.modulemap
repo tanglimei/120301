@@ -1,0 +1,6 @@
+framework module _120301 {
+  umbrella header "120301-umbrella.h"
+
+  export *
+  module * { export * }
+}
