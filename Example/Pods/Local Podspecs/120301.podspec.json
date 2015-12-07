@@ -1,6 +1,6 @@
 {
   "name": "120301",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "This is the 1203 First Test.",
   "description": "I want this one to be succeed.Well Done",
   "homepage": "https://github.com/tanglimei/120301",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/tanglimei/120301.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "7.0"
