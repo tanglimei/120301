@@ -1,5 +1,6 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/../../Pod/Classes" "${PODS_ROOT}/../../Pod/Classes" "${PODS_ROOT}/../../Pod/Classes" "${PODS_ROOT}/../../Pod/Classes/framework" "${PODS_ROOT}/../../Pod/Classes/framework" "${PODS_ROOT}/../../Pod/Classes/framework" "${PODS_ROOT}/../../Pod/Classes/framework" "${PODS_ROOT}/../../Pod/Classes/framework" "${PODS_ROOT}/../../Pod/Classes/framework"
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/120301" "${PODS_ROOT}/Headers/Public"
-OTHER_LDFLAGS = -framework "AudioToolbox" -framework "CoreGraphics"
+OTHER_LDFLAGS = -framework "ATSMS" -framework "AudioToolbox" -framework "CoreGraphics" -framework "Encrypt" -framework "Log" -framework "NDJSON" -framework "NDUtility" -framework "NdComPlatform" -framework "NdComPlatformInt" -framework "NetEngine" -framework "QuickUnifyPlatform"
 PODS_ROOT = ${SRCROOT}
 SKIP_INSTALL = YES

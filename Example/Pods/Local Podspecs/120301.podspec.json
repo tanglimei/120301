@@ -25,6 +25,19 @@
     "CoreGraphics",
     "AudioToolbox"
   ],
+  "ios": {
+    "vendored_frameworks": [
+      "Pod/Classes/NdComPlatform.framework",
+      "Pod/Classes/NdComPlatformInt.framework",
+      "Pod/Classes/QuickUnifyPlatform.framework",
+      "Pod/Classes/framework/ATSMS.framework",
+      "Pod/Classes/framework/Encrypt.framework",
+      "Pod/Classes/framework/Log.framework",
+      "Pod/Classes/framework/NDJSON.framework",
+      "Pod/Classes/framework/NDUtility.framework",
+      "Pod/Classes/framework/NetEngine.framework"
+    ]
+  },
   "resource_bundles": {
     "NdComPlatform_SNS_Resources": [
       "Pod/Assets/**/*.png"

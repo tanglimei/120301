@@ -1,0 +1,1 @@
+../../../../../../Pod/Classes/framework/ATSMS.framework/Headers/NdSMSAssistant.h

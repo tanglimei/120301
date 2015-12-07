@@ -7,6 +7,7 @@
 //
 
 #import "TTViewController.h"
+#import "DCButton.h"
 
 @interface TTViewController ()
 
@@ -19,7 +20,10 @@
     [super viewDidLoad];
     
     NSString * dic = [[NSBundle mainBundle]pathForResource:@"QuickManifest" ofType:@"plist"];
+//    NSDictionary 
     NSLog(@"dic = %@",dic);
+    DCButton *bt = [DCButton new];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

@@ -1,0 +1,1 @@
+../../../../../../Pod/Classes/NdComPlatform.framework/Headers/NdComPlatformAPIResponse+VirtualGoods.h

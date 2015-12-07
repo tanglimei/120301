@@ -1,0 +1,1 @@
+../../../../../../Pod/Classes/framework/NetEngine.framework/Versions/A/Headers/NDNetHttpTransferClient.h
