@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/tanglimei/120301.git", :tag => "0.1.8" }
   s.platform     = :ios, '7.0'
   s.requires_arc = true
-  s.source_files = 'Pod/Classes/*.{h,m}', 'Pod/Classes/*.plist', 'Pod/Classes/*.framework'
+  s.source_files = 'Pod/Classes/*.{h,m}', 'Pod/Classes/*.plist'
   s.framework = 'CoreGraphics', 'AudioToolbox'
   s.ios.vendored_frameworks = 'Pod/Classes/QuickUnifyPlatform.framework'
   s.resource_bundles = {'NdComPlatform_SNS_Resources' => ['Pod/Assets/**/*.png']}
