@@ -1,5 +1,5 @@
 PODS:
-  - 120301 (0.1.1)
+  - 120301 (0.1.4)
   - Expecta (1.0.5)
   - Expecta+Snapshots (2.0.0):
     - Expecta (~> 1.0)
@@ -23,7 +23,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  '120301': 22bc2724c2dc21fc2a5fa7c91045bc800b00321c
+  '120301': 48dd885d16e61c6c9794a75c249102666070a98f
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
   Expecta+Snapshots: 29b38dd695bc72a0ed2bea833937d78df41943ba
   FBSnapshotTestCase: 7e85180d0d141a0cf472352edda7e80d7eaeb547

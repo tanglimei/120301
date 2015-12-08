@@ -533,6 +533,7 @@
 				GCC_PREFIX_HEADER = "120301/120301-Prefix.pch";
 				INFOPLIST_FILE = "120301/120301-Info.plist";
 				MODULE_NAME = ExampleApp;
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
