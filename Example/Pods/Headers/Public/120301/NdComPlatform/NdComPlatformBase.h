@@ -1,1 +1,0 @@
-../../../../../../Pod/Classes/NdComPlatform.framework/Headers/NdComPlatformBase.h

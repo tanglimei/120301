@@ -1,1 +1,0 @@
-../../../../../../Pod/Classes/QuickUnifyPlatform.framework/Headers/QuickProductInfo.h

@@ -13,7 +13,14 @@
 
 //验证URL
 extern NSString * const kQUPLoginURL;
+extern NSString * const kQUPSignLoginURL;
 extern NSString * const kQUPOrderURL;
+
+//调试验证URL
+extern NSString * const kQUPDebugLoginURL;
+extern NSString * const kQUPDebugSignLoginURL;
+extern NSString * const kQUPDebugOrderURL;
+
 
 //消息通知
 extern NSString * const kQUPSDKInitDidFinishNotification; //SDK初始化完成通知

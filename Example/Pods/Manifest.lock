@@ -23,7 +23,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  '120301': cda79b007e5b922f7654ddc77938ec65f7ba9bdc
+  '120301': 22bc2724c2dc21fc2a5fa7c91045bc800b00321c
   Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
   Expecta+Snapshots: 29b38dd695bc72a0ed2bea833937d78df41943ba
   FBSnapshotTestCase: 7e85180d0d141a0cf472352edda7e80d7eaeb547

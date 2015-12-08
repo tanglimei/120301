@@ -1,1 +1,0 @@
-../../../../../../Pod/Classes/NdComPlatform.framework/Headers/NdComPlatform+SNS.h
