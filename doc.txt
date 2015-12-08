@@ -1,0 +1,21 @@
+SDK Name
+SDK Version
+Platform SDK Version
+Date
+SDK Doc Author
+
+Data -- SDK Version -- SDK Fix -- Author
+
+1.开发前注意事项：介绍hi后台操作。
+2.开发环境兼容性：Xcode7.0，版本iOS6以上，架构支持armv7，arm64。
+3.SDK组成：framework和bundle。
+4.搭建开发环境
+Other Linker Flags
+Link Binary With Libraries
+加入SDK，调整好想对应的资源。
+
+Xcode7和bitcode url types等设置
+
+
+
+
